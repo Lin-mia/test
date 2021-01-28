@@ -8,6 +8,7 @@
        <router-link to="/about">测试2</router-link>
       <router-link to="/about">测试2</router-link>
       <router-link to="/about">测试3</router-link>
+      <router-link to="/about">测试2</router-link>
     </div>
     <router-view/>
   </div>
