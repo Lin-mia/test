@@ -10,8 +10,13 @@
       <router-link to="/about">测试3</router-link>
       <router-link to="/about">测试2</router-link>
       <router-link to="/about">测试4</router-link>
+<<<<<<< HEAD
       <router-link to="/about">测试2</router-link>
       <router-link to="/about">测试3333333</router-link>
+=======
+      <router-link to="/about">测试3</router-link>
+      <router-link to="/about">测试4</router-link>
+>>>>>>> 8555aed0da92bf93565bc1957a5e26484dace9f3
     </div>
     <router-view/>
   </div>
